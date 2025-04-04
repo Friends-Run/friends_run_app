@@ -1,0 +1,9 @@
+version: "Apple Swift version 6.0.3 (swiftlang-6.0.3.1.10 clang-1600.0.30.1)"
+options: "778958c5f83f178dffbd02378b853579e7aca43fc4fb242d392d885305bf6473"
+build_start_time: [1743774635, 513521000]
+build_end_time: [1743774635, 540118000]
+inputs:
+  "/Users/luis/.pub-cache/hosted/pub.dev/connectivity_plus-5.0.2/ios/Classes/ConnectivityProvider.swift": !dirty [1743771057, 289907310]
+  "/Users/luis/.pub-cache/hosted/pub.dev/connectivity_plus-5.0.2/ios/Classes/PathMonitorConnectivityProvider.swift": !dirty [1743771057, 290522206]
+  "/Users/luis/.pub-cache/hosted/pub.dev/connectivity_plus-5.0.2/ios/Classes/ReachabilityConnectivityProvider.swift": !dirty [1743771057, 290203623]
+  "/Users/luis/.pub-cache/hosted/pub.dev/connectivity_plus-5.0.2/ios/Classes/SwiftConnectivityPlusPlugin.swift": !dirty [1743771057, 289291417]

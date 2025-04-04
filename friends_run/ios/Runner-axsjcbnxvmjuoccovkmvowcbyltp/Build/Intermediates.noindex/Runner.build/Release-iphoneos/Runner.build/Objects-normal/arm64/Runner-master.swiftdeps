@@ -1,0 +1,8 @@
+version: "Apple Swift version 6.0.3 (swiftlang-6.0.3.1.10 clang-1600.0.30.1)"
+options: "2d3f98bb5b23278318a1d99b47f53e8cb7925e9d83a021c7c145189b71b969bf"
+build_start_time: [1743774575, 791911000]
+build_end_time: [1743774591, 350085000]
+inputs:
+  ? "/Users/luis/Documents/Dev/friends_run_app_2/friends_run/ios/Runner-axsjcbnxvmjuoccovkmvowcbyltp/Build/Intermediates.noindex/Runner.build/Release-iphoneos/Runner.build/DerivedSources/GeneratedAssetSymbols.swift"
+  : [1743774575, 781131944]
+  "/Users/luis/Documents/Dev/friends_run_app_2/friends_run/ios/Runner/AppDelegate.swift": [1739879705, 910297789]

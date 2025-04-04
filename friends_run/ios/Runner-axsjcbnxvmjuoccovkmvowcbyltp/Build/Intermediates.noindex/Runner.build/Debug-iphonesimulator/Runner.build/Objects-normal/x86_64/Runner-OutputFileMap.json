@@ -1,0 +1,28 @@
+{
+  "" : {
+    "diagnostics" : "/Users/luis/Documents/Dev/friends_run_app_2/friends_run/ios/Runner-axsjcbnxvmjuoccovkmvowcbyltp/Build/Intermediates.noindex/Runner.build/Debug-iphonesimulator/Runner.build/Objects-normal/x86_64/Runner-master.dia",
+    "emit-module-dependencies" : "/Users/luis/Documents/Dev/friends_run_app_2/friends_run/ios/Runner-axsjcbnxvmjuoccovkmvowcbyltp/Build/Intermediates.noindex/Runner.build/Debug-iphonesimulator/Runner.build/Objects-normal/x86_64/Runner-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/luis/Documents/Dev/friends_run_app_2/friends_run/ios/Runner-axsjcbnxvmjuoccovkmvowcbyltp/Build/Intermediates.noindex/Runner.build/Debug-iphonesimulator/Runner.build/Objects-normal/x86_64/Runner-master-emit-module.dia",
+    "swift-dependencies" : "/Users/luis/Documents/Dev/friends_run_app_2/friends_run/ios/Runner-axsjcbnxvmjuoccovkmvowcbyltp/Build/Intermediates.noindex/Runner.build/Debug-iphonesimulator/Runner.build/Objects-normal/x86_64/Runner-master.swiftdeps"
+  },
+  "/Users/luis/Documents/Dev/friends_run_app_2/friends_run/ios/Runner-axsjcbnxvmjuoccovkmvowcbyltp/Build/Intermediates.noindex/Runner.build/Debug-iphonesimulator/Runner.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/luis/Documents/Dev/friends_run_app_2/friends_run/ios/Runner-axsjcbnxvmjuoccovkmvowcbyltp/Build/Intermediates.noindex/Runner.build/Debug-iphonesimulator/Runner.build/Objects-normal/x86_64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/luis/Documents/Dev/friends_run_app_2/friends_run/ios/Runner-axsjcbnxvmjuoccovkmvowcbyltp/Build/Intermediates.noindex/Runner.build/Debug-iphonesimulator/Runner.build/Objects-normal/x86_64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/luis/Documents/Dev/friends_run_app_2/friends_run/ios/Runner-axsjcbnxvmjuoccovkmvowcbyltp/Build/Intermediates.noindex/Runner.build/Debug-iphonesimulator/Runner.build/Objects-normal/x86_64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/Runner.build/Debug-iphonesimulator/Runner.build/Objects-normal/x86_64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/luis/Documents/Dev/friends_run_app_2/friends_run/ios/Runner-axsjcbnxvmjuoccovkmvowcbyltp/Build/Intermediates.noindex/Runner.build/Debug-iphonesimulator/Runner.build/Objects-normal/x86_64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/luis/Documents/Dev/friends_run_app_2/friends_run/ios/Runner-axsjcbnxvmjuoccovkmvowcbyltp/Build/Intermediates.noindex/Runner.build/Debug-iphonesimulator/Runner.build/Objects-normal/x86_64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/luis/Documents/Dev/friends_run_app_2/friends_run/ios/Runner-axsjcbnxvmjuoccovkmvowcbyltp/Build/Intermediates.noindex/Runner.build/Debug-iphonesimulator/Runner.build/Objects-normal/x86_64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/luis/Documents/Dev/friends_run_app_2/friends_run/ios/Runner-axsjcbnxvmjuoccovkmvowcbyltp/Build/Intermediates.noindex/Runner.build/Debug-iphonesimulator/Runner.build/Objects-normal/x86_64/GeneratedAssetSymbols~partial.swiftmodule"
+  },
+  "/Users/luis/Documents/Dev/friends_run_app_2/friends_run/ios/Runner/AppDelegate.swift" : {
+    "const-values" : "/Users/luis/Documents/Dev/friends_run_app_2/friends_run/ios/Runner-axsjcbnxvmjuoccovkmvowcbyltp/Build/Intermediates.noindex/Runner.build/Debug-iphonesimulator/Runner.build/Objects-normal/x86_64/AppDelegate.swiftconstvalues",
+    "dependencies" : "/Users/luis/Documents/Dev/friends_run_app_2/friends_run/ios/Runner-axsjcbnxvmjuoccovkmvowcbyltp/Build/Intermediates.noindex/Runner.build/Debug-iphonesimulator/Runner.build/Objects-normal/x86_64/AppDelegate.d",
+    "diagnostics" : "/Users/luis/Documents/Dev/friends_run_app_2/friends_run/ios/Runner-axsjcbnxvmjuoccovkmvowcbyltp/Build/Intermediates.noindex/Runner.build/Debug-iphonesimulator/Runner.build/Objects-normal/x86_64/AppDelegate.dia",
+    "index-unit-output-path" : "/Runner.build/Debug-iphonesimulator/Runner.build/Objects-normal/x86_64/AppDelegate.o",
+    "llvm-bc" : "/Users/luis/Documents/Dev/friends_run_app_2/friends_run/ios/Runner-axsjcbnxvmjuoccovkmvowcbyltp/Build/Intermediates.noindex/Runner.build/Debug-iphonesimulator/Runner.build/Objects-normal/x86_64/AppDelegate.bc",
+    "object" : "/Users/luis/Documents/Dev/friends_run_app_2/friends_run/ios/Runner-axsjcbnxvmjuoccovkmvowcbyltp/Build/Intermediates.noindex/Runner.build/Debug-iphonesimulator/Runner.build/Objects-normal/x86_64/AppDelegate.o",
+    "swift-dependencies" : "/Users/luis/Documents/Dev/friends_run_app_2/friends_run/ios/Runner-axsjcbnxvmjuoccovkmvowcbyltp/Build/Intermediates.noindex/Runner.build/Debug-iphonesimulator/Runner.build/Objects-normal/x86_64/AppDelegate.swiftdeps",
+    "swiftmodule" : "/Users/luis/Documents/Dev/friends_run_app_2/friends_run/ios/Runner-axsjcbnxvmjuoccovkmvowcbyltp/Build/Intermediates.noindex/Runner.build/Debug-iphonesimulator/Runner.build/Objects-normal/x86_64/AppDelegate~partial.swiftmodule"
+  }
+}

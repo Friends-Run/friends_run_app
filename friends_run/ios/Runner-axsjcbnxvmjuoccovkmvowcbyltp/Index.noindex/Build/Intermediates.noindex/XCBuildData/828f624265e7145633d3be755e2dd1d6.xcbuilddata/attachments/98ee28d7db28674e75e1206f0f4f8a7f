@@ -1,0 +1,21 @@
+{
+  "" : {
+    "dependencies" : "/Users/luis/Documents/Dev/friends_run_app_2/friends_run/ios/Runner-axsjcbnxvmjuoccovkmvowcbyltp/Index.noindex/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/connectivity_plus.build/Objects-normal/arm64/connectivity_plus-master.d",
+    "diagnostics" : "/Users/luis/Documents/Dev/friends_run_app_2/friends_run/ios/Runner-axsjcbnxvmjuoccovkmvowcbyltp/Index.noindex/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/connectivity_plus.build/Objects-normal/arm64/connectivity_plus-master.dia",
+    "emit-module-dependencies" : "/Users/luis/Documents/Dev/friends_run_app_2/friends_run/ios/Runner-axsjcbnxvmjuoccovkmvowcbyltp/Index.noindex/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/connectivity_plus.build/Objects-normal/arm64/connectivity_plus-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/luis/Documents/Dev/friends_run_app_2/friends_run/ios/Runner-axsjcbnxvmjuoccovkmvowcbyltp/Index.noindex/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/connectivity_plus.build/Objects-normal/arm64/connectivity_plus-master-emit-module.dia",
+    "swift-dependencies" : "/Users/luis/Documents/Dev/friends_run_app_2/friends_run/ios/Runner-axsjcbnxvmjuoccovkmvowcbyltp/Index.noindex/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/connectivity_plus.build/Objects-normal/arm64/connectivity_plus-master.swiftdeps"
+  },
+  "/Users/luis/.pub-cache/hosted/pub.dev/connectivity_plus-5.0.2/ios/Classes/ConnectivityProvider.swift" : {
+
+  },
+  "/Users/luis/.pub-cache/hosted/pub.dev/connectivity_plus-5.0.2/ios/Classes/PathMonitorConnectivityProvider.swift" : {
+
+  },
+  "/Users/luis/.pub-cache/hosted/pub.dev/connectivity_plus-5.0.2/ios/Classes/ReachabilityConnectivityProvider.swift" : {
+
+  },
+  "/Users/luis/.pub-cache/hosted/pub.dev/connectivity_plus-5.0.2/ios/Classes/SwiftConnectivityPlusPlugin.swift" : {
+
+  }
+}
