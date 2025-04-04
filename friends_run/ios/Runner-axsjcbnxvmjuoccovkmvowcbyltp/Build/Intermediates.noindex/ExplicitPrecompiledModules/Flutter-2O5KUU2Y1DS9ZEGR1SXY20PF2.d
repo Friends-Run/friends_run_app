@@ -1,0 +1,24 @@
+moduledependenciestarget: \
+  /Users/luis/Documents/Dev/friends_run_app_2/friends_run/build/ios/Debug-iphonesimulator/Flutter.framework/Modules/module.modulemap \
+  /Users/luis/Documents/Dev/friends_run_app_2/friends_run/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/Flutter.h \
+  /Users/luis/Documents/Dev/friends_run_app_2/friends_run/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterAppDelegate.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator18.2.sdk/System/Library/Frameworks/UIKit.framework/Modules/module.modulemap \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator18.2.sdk/System/Library/Frameworks/Foundation.framework/Modules/module.modulemap \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator18.2.sdk/usr/include/DarwinFoundation.modulemap \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator18.2.sdk/System/Library/Frameworks/UserNotifications.framework/Modules/module.modulemap \
+  /Users/luis/Documents/Dev/friends_run_app_2/friends_run/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterMacros.h \
+  /Users/luis/Documents/Dev/friends_run_app_2/friends_run/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterPlugin.h \
+  /Users/luis/Documents/Dev/friends_run_app_2/friends_run/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterBinaryMessenger.h \
+  /Users/luis/Documents/Dev/friends_run_app_2/friends_run/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterChannels.h \
+  /Users/luis/Documents/Dev/friends_run_app_2/friends_run/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterCodecs.h \
+  /Users/luis/Documents/Dev/friends_run_app_2/friends_run/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterPlatformViews.h \
+  /Users/luis/Documents/Dev/friends_run_app_2/friends_run/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterTexture.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator18.2.sdk/System/Library/Frameworks/CoreMedia.framework/Modules/module.modulemap \
+  /Users/luis/Documents/Dev/friends_run_app_2/friends_run/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterCallbackCache.h \
+  /Users/luis/Documents/Dev/friends_run_app_2/friends_run/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterDartProject.h \
+  /Users/luis/Documents/Dev/friends_run_app_2/friends_run/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterEngine.h \
+  /Users/luis/Documents/Dev/friends_run_app_2/friends_run/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterEngineGroup.h \
+  /Users/luis/Documents/Dev/friends_run_app_2/friends_run/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterHeadlessDartRunner.h \
+  /Users/luis/Documents/Dev/friends_run_app_2/friends_run/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterPluginAppLifeCycleDelegate.h \
+  /Users/luis/Documents/Dev/friends_run_app_2/friends_run/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterViewController.h \
+  /Users/luis/Documents/Dev/friends_run_app_2/friends_run/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterHourFormat.h

@@ -1,0 +1,51 @@
+{
+  "buildCommand" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : true,
+    "targets" : null
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "18c1723432283e0cc55f10a6dcfd9e02b835f5f63276aec8d000a1f39e912778"
+    },
+    {
+      "guid" : "18c1723432283e0cc55f10a6dcfd9e0288a783a885d8b0b3beb2e9f90bde3f49"
+    }
+  ],
+  "containerPath" : "/Users/luis/Documents/Dev/friends_run_app_2/friends_run/ios/Runner.xcworkspace",
+  "continueBuildingAfterErrors" : true,
+  "dependencyScope" : "workspace",
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "indexbuild",
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/luis/Documents/Dev/friends_run_app_2/friends_run/ios/Runner-axsjcbnxvmjuoccovkmvowcbyltp/Index.noindex/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/luis/Documents/Dev/friends_run_app_2/friends_run/ios/Runner-axsjcbnxvmjuoccovkmvowcbyltp/Index.noindex/Build/Products",
+      "derivedDataPath" : "/Users/luis/Documents/Dev/friends_run_app_2/friends_run/ios",
+      "indexDataStoreFolderPath" : "/Users/luis/Documents/Dev/friends_run_app_2/friends_run/ios/Runner-axsjcbnxvmjuoccovkmvowcbyltp/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/luis/Documents/Dev/friends_run_app_2/friends_run/ios/Runner-axsjcbnxvmjuoccovkmvowcbyltp/Index.noindex/PrecompiledHeaders",
+      "indexRegularBuildIntermediatesPath" : "/Users/luis/Documents/Dev/friends_run_app_2/friends_run/ios/Runner-axsjcbnxvmjuoccovkmvowcbyltp/Build/Intermediates.noindex",
+      "indexRegularBuildProductsPath" : "/Users/luis/Documents/Dev/friends_run_app_2/friends_run/ios/Runner-axsjcbnxvmjuoccovkmvowcbyltp/Build/Products",
+      "pchPath" : "/Users/luis/Documents/Dev/friends_run_app_2/friends_run/ios/Runner-axsjcbnxvmjuoccovkmvowcbyltp/Index.noindex/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO",
+          "ENABLE_XOJIT_PREVIEWS" : "NO",
+          "ONLY_ACTIVE_ARCH" : "YES"
+        }
+      }
+    }
+  },
+  "qos" : "utility",
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

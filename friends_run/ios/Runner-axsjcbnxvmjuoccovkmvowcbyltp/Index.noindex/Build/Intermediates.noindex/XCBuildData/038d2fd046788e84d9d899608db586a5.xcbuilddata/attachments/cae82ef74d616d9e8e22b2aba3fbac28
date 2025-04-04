@@ -1,0 +1,12 @@
+{
+  "" : {
+    "dependencies" : "/Users/luis/Documents/Dev/friends_run_app_2/friends_run/ios/Runner-axsjcbnxvmjuoccovkmvowcbyltp/Index.noindex/Build/Intermediates.noindex/Runner.build/Debug-iphonesimulator/RunnerTests.build/Objects-normal/x86_64/RunnerTests-master.d",
+    "diagnostics" : "/Users/luis/Documents/Dev/friends_run_app_2/friends_run/ios/Runner-axsjcbnxvmjuoccovkmvowcbyltp/Index.noindex/Build/Intermediates.noindex/Runner.build/Debug-iphonesimulator/RunnerTests.build/Objects-normal/x86_64/RunnerTests-master.dia",
+    "emit-module-dependencies" : "/Users/luis/Documents/Dev/friends_run_app_2/friends_run/ios/Runner-axsjcbnxvmjuoccovkmvowcbyltp/Index.noindex/Build/Intermediates.noindex/Runner.build/Debug-iphonesimulator/RunnerTests.build/Objects-normal/x86_64/RunnerTests-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/luis/Documents/Dev/friends_run_app_2/friends_run/ios/Runner-axsjcbnxvmjuoccovkmvowcbyltp/Index.noindex/Build/Intermediates.noindex/Runner.build/Debug-iphonesimulator/RunnerTests.build/Objects-normal/x86_64/RunnerTests-master-emit-module.dia",
+    "swift-dependencies" : "/Users/luis/Documents/Dev/friends_run_app_2/friends_run/ios/Runner-axsjcbnxvmjuoccovkmvowcbyltp/Index.noindex/Build/Intermediates.noindex/Runner.build/Debug-iphonesimulator/RunnerTests.build/Objects-normal/x86_64/RunnerTests-master.swiftdeps"
+  },
+  "/Users/luis/Documents/Dev/friends_run_app_2/friends_run/ios/RunnerTests/RunnerTests.swift" : {
+
+  }
+}

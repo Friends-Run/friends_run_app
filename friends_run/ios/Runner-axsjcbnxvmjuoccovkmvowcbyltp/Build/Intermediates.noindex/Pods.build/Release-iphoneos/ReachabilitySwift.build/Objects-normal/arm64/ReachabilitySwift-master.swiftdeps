@@ -1,0 +1,6 @@
+version: "Apple Swift version 6.0.3 (swiftlang-6.0.3.1.10 clang-1600.0.30.1)"
+options: "12874feeea9f39af6bf43583ce306802a00ec0df81250ce823d6276805b45372"
+build_start_time: [1743774539, 418325000]
+build_end_time: [1743774546, 508524000]
+inputs:
+  "/Users/luis/Documents/Dev/friends_run_app_2/friends_run/ios/Pods/ReachabilitySwift/Sources/Reachability.swift": [1743774534, 121515847]
